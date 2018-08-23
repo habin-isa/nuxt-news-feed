@@ -1,6 +1,10 @@
 # nuxt-practice-2
 
-> Following a scotch tutorial
+Following a Scotch tutorial creating a news feed application, using a news API. This repo is for learning the structure and processes of using an API with Vue and Nuxt.
+
+News API:
+
+https://newsapi.org/
 
 ## Build Setup
 
